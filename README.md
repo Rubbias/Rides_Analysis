@@ -1,5 +1,5 @@
 # Rides_Analysis
-### RIDE IT is the multi-service mobility company. Along with ride-hailing services, RIDE IT also offers micro-mobility services such as e-scooters, e-bikes, e-Vespas as well as car sharing all under the same app.
+### The PowerPoint presentation comprehensively illustrates the analysis and furnishes valuable insights.
 
 Questions : 1.	What key metric(s) would you propose to monitor over time to measure the success of the team's efforts in improving Drivers’ engagement and why? Clearly define your metric(s) and present calculations showing trends or patterns as you see appropriate. 2.	Can you help us identify which factors are associated with better engagement? What segments are doing well and what could be improved? Can you propose any recommendations (business initiatives or product changes) that could address these opportunities?
 
